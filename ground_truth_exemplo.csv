@@ -1,0 +1,11 @@
+produto_id,nome_produto,categoria,preco_unitario,quantidade_estoque,categoria_esperada,preco_esperado,estoque_esperado
+20,Microfone Condensador USB,Áudio,106.05,61,Áudio,106.05,61
+17,Viola de Arco Profissional,Instrumentos,2176.73,49,Instrumentos,2176.73,49
+16,Correia de Couro para Guitarra,Acessórios,114.6,56,Acessórios,114.6,56
+27,Stand para Guitarra Ajustável,Acessórios,179.16,98,Acessórios,179.16,98
+5,Saxofone Alto Eb Dourado,Instrumentos,3524.37,67,Instrumentos,3524.37,67
+13,Pedal Distorção Analógico,Equipamentos,452.69,20,Equipamentos,452.69,20
+38,Violão Clássico Nylon,Instrumentos,259.95,28,Instrumentos,259.95,28
+28,Trompete Bb Latão,Instrumentos,1276.46,8,Instrumentos,1276.46,8
+40,Afinador Cromático Portátil,Acessórios,0.94,52,Acessórios,0.94,52
+7,Plectro de Aço Inoxidável,Acessórios,-0.86,68,Acessórios,-0.86,68

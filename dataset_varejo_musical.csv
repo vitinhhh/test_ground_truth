@@ -1,0 +1,41 @@
+produto_id,nome_produto,categoria,artista_marca,preco_unitario,quantidade_estoque,data_atualizacao,fornecedor,sku,status
+1,Interface de Áudio 2x2,Equipamentos,Focusrite,534.04,51,2026-09-20,Distribuidora Musical BR,FOC-EQUI-001,ativo
+2,Processador de Efeitos Multifuncional,Equipamentos,Line 6,943.53,60,2026-09-24,Music Supply,LIN-EQUI-002,ativo
+3,Baqueta Nylon Colorida (Par),Acessórios,Vic Firth,-25.01,46,2026-09-24,Tech Store Audio,VIC-ACES-003,ativo
+4,Accordion Diatônico 120 Baixos,Instrumentos,Hohner,2486.7,83,2026-09-18,Tech Musical,HOH-INST-004,ativo
+5,Saxofone Alto Eb Dourado,Instrumentos,Selmer,3524.37,67,2026-09-24,Conecta Audio,SEL-INST-005,ativo
+6,Capotrasto Clássico Premium,Acessórios,Shubb,57.63,83,2026-09-20,Guitar Center BR,SHU-ACES-006,ativo
+7,Plectro de Aço Inoxidável,Acessórios,Ernie Ball,-0.86,68,2026-09-17,Eletrônicos Premium,ERN-ACES-007,ativo
+8,Violão Clássico Nylon,Instrumentos,Fender,249.4,78,2026-09-20,Tech Musical,FEN-INST-008,ativo
+9,Corda de Aço para Violão,Acessórios,D'Addario,139.85,48,2026-09-24,Proteção Music,D'A-ACES-009,ativo
+10,Afinador Cromático Portátil,Acessórios,Snark,8.96,70,2026-09-17,ProMusic Store,SNA-ACES-010,ativo
+11,Bateria Acústica 5 Peças,Instrumentos,Pearl,2130.34,71,2026-09-17,Tech Store Audio,PEA-INST-011,ativo
+12,Baixo Elétrico 4 Cordas,Instrumentos,Ibanez,671.42,41,2026-09-20,Conecta Audio,IBA-INST-012,ativo
+13,Pedal Distorção Analógico,Equipamentos,Boss,452.69,20,2026-09-22,Conecta Audio,BOS-EQUI-013,ativo
+14,Capa Protetora para Violão,Acessórios,Genérica,161.88,61,2026-09-23,Tech Musical,GEN-ACES-014,ativo
+15,Amplificador de Guitarra 50W,Equipamentos,Marshall,491.53,97,2026-09-22,Tech Store Audio,MAR-EQUI-015,ativo
+16,Correia de Couro para Guitarra,Acessórios,Leather Music,114.6,56,2026-09-20,Music Supply,LEA-ACES-016,ativo
+17,Viola de Arco Profissional,Instrumentos,Cremona,2176.73,49,2026-09-21,Tech Musical,CRE-INST-017,ativo
+18,Cabo XLR Balanceado 5M,Acessórios,Behringer,152.63,60,2026-09-22,Eletrônicos Premium,BEH-ACES-018,ativo
+19,Guitarra Acústica 41 Polegadas,Instrumentos,Tagima,148.05,87,2026-09-20,Distribuidora Musical BR,TAG-INST-019,ativo
+20,Microfone Condensador USB,Áudio,Audio-Technica,106.05,61,2026-09-18,Guitar Center BR,AUD-ÁUDI-020,ativo
+21,Pad MIDI 16 Pads Controlador,Equipamentos,Native Instruments,876.17,28,2026-09-22,Proteção Music,NAT-EQUI-021,ativo
+22,Clarinete Bb Madeira,Instrumentos,Yamaha,1215.64,56,2026-09-19,Distribuidora Musical BR,YAM-INST-022,ativo
+23,Fone Over-Ear Bluetooth,Áudio,Sony,304.79,83,2026-09-17,Guitar Center BR,SON-ÁUDI-023,ativo
+24,Humidificador para Violão,Acessórios,Hohner,210.02,87,2026-09-20,Music Supply,HOH-ACES-024,ativo
+25,Teclado Sintetizador 61 Teclas,Instrumentos,Yamaha,1635.01,25,2026-09-22,Proteção Music,YAM-INST-025,ativo
+26,Compressor de Áudio 2 Canais,Equipamentos,dbx,300.54,4,2026-09-18,Conecta Audio,DBX-EQUI-026,ativo
+27,Stand para Guitarra Ajustável,Acessórios,K&M,179.16,98,2026-09-20,Music Supply,K&M-ACES-027,ativo
+28,Trompete Bb Latão,Instrumentos,Yamaha,1276.46,8,2026-09-20,Drums World,YAM-INST-028,ativo
+29,Gravador Digital 2 Canais,Equipamentos,Zoom,596.98,89,2026-09-20,ProMusic Store,ZOO-EQUI-029,ativo
+30,Alto-Falante Monitor 8 Polegadas,Equipamentos,KRK,712.12,98,2026-09-19,Tech Store Audio,KRK-EQUI-030,ativo
+31,Interface de Áudio 2x2,Equipamentos,Focusrite,592.59,43,2026-09-17,Tech Store Audio,FOC-EQUI-031,ativo
+32,Processador de Efeitos Multifuncional,Equipamentos,Line 6,992.19,59,2026-09-19,Tech Store Audio,LIN-EQUI-032,ativo
+33,Baqueta Nylon Colorida (Par),Acessórios,Vic Firth,62.3,44,2026-09-20,ProMusic Store,VIC-ACES-033,ativo
+34,Accordion Diatônico 120 Baixos,Instrumentos,Hohner,2541.56,12,2026-09-19,Distribuidora Musical BR,HOH-INST-034,ativo
+35,Saxofone Alto Eb Dourado,Instrumentos,Selmer,3474.88,41,2026-09-22,Distribuidora Musical BR,SEL-INST-035,ativo
+36,Capotrasto Clássico Premium,Acessórios,Shubb,27.57,66,2026-09-20,Proteção Music,SHU-ACES-036,ativo
+37,Plectro de Aço Inoxidável,Acessórios,Ernie Ball,24.28,99,2026-09-21,Music Supply,ERN-ACES-037,ativo
+38,Violão Clássico Nylon,Instrumentos,Fender,259.95,28,2026-09-21,ProMusic Store,FEN-INST-038,ativo
+39,Corda de Aço para Violão,Acessórios,D'Addario,51.13,1,2026-09-19,ProMusic Store,D'A-ACES-039,ativo
+40,Afinador Cromático Portátil,Acessórios,Snark,0.94,52,2026-09-17,Eletrônicos Premium,SNA-ACES-040,ativo
