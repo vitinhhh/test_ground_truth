@@ -1,0 +1,167 @@
+query,produto_id,relevancia
+guitarra elétrica,111,5
+guitarra elétrica,115,5
+guitarra elétrica,114,3
+violão clássico,7,5
+violão clássico,55,5
+violão clássico,73,5
+violão clássico,110,5
+violão clássico,113,5
+software para criar sons,380,5
+software para criar sons,392,5
+software para criar sons,403,5
+software para criar sons,448,5
+software para criar sons,472,5
+software para criar sons,475,5
+software para criar sons,477,5
+software para criar sons,482,5
+software para criar sons,457,5
+software para criar sons,469,5
+software para criar sons,486,5
+software para criar sons,467,5
+software para criar sons,390,3
+software para criar sons,421,3
+software para criar sons,423,3
+software para criar sons,473,3
+software para criar sons,497,3
+microfone para gravação de voz,281,5
+microfone para gravação de voz,285,5
+microfone para gravação de voz,293,5
+microfone para gravação de voz,298,5
+microfone para gravação de voz,322,5
+microfone para gravação de voz,328,5
+microfone para gravação de voz,330,5
+microfone para gravação de voz,353,5
+microfone para gravação de voz,368,5
+microfone para gravação de voz,372,5
+microfone para gravação de voz,373,5
+bateria eletrônica,5,5
+bateria eletrônica,84,5
+equipamento de áudio para estúdio,253,5
+equipamento de áudio para estúdio,258,5
+equipamento de áudio para estúdio,265,5
+equipamento de áudio para estúdio,275,5
+equipamento de áudio para estúdio,331,5
+equipamento de áudio para estúdio,341,5
+equipamento de áudio para estúdio,281,5
+equipamento de áudio para estúdio,285,5
+equipamento de áudio para estúdio,293,5
+equipamento de áudio para estúdio,298,5
+equipamento de áudio para estúdio,322,5
+equipamento de áudio para estúdio,328,5
+equipamento de áudio para estúdio,330,5
+equipamento de áudio para estúdio,353,5
+equipamento de áudio para estúdio,368,5
+equipamento de áudio para estúdio,372,5
+equipamento de áudio para estúdio,373,5
+equipamento de áudio para estúdio,282,4
+equipamento de áudio para estúdio,306,4
+equipamento de áudio para estúdio,342,4
+equipamento de áudio para estúdio,350,4
+equipamento de áudio para estúdio,359,4
+equipamento de áudio para estúdio,361,4
+equipamento de áudio para estúdio,362,4
+equipamento de áudio para estúdio,369,4
+equipamento de áudio para estúdio,254,4
+equipamento de áudio para estúdio,255,4
+equipamento de áudio para estúdio,266,4
+equipamento de áudio para estúdio,290,4
+equipamento de áudio para estúdio,295,4
+equipamento de áudio para estúdio,300,4
+equipamento de áudio para estúdio,311,4
+equipamento de áudio para estúdio,317,4
+equipamento de áudio para estúdio,333,4
+equipamento de áudio para estúdio,346,4
+equipamento de áudio para estúdio,259,4
+equipamento de áudio para estúdio,260,4
+equipamento de áudio para estúdio,263,4
+equipamento de áudio para estúdio,276,4
+equipamento de áudio para estúdio,296,4
+equipamento de áudio para estúdio,297,4
+equipamento de áudio para estúdio,318,4
+equipamento de áudio para estúdio,320,4
+equipamento de áudio para estúdio,269,4
+equipamento de áudio para estúdio,273,4
+equipamento de áudio para estúdio,327,4
+equipamento de áudio para estúdio,264,4
+equipamento de áudio para estúdio,304,4
+equipamento de áudio para estúdio,332,4
+equipamento de áudio para estúdio,366,4
+equipamento de áudio para estúdio,367,4
+equipamento de áudio para estúdio,351,4
+equipamento de áudio para estúdio,356,4
+equipamento de áudio para estúdio,291,4
+equipamento de áudio para estúdio,314,4
+equipamento de áudio para estúdio,334,4
+equipamento de áudio para estúdio,337,4
+equipamento de áudio para estúdio,345,4
+equipamento de áudio para estúdio,354,4
+equipamento de áudio para estúdio,365,4
+equipamento de áudio para estúdio,371,4
+equipamento de áudio para estúdio,267,4
+equipamento de áudio para estúdio,278,4
+equipamento de áudio para estúdio,286,4
+equipamento de áudio para estúdio,302,4
+equipamento de áudio para estúdio,326,4
+equipamento de áudio para estúdio,352,4
+equipamento de áudio para estúdio,284,4
+equipamento de áudio para estúdio,355,4
+acessório para proteger instrumento,154,5
+acessório para proteger instrumento,199,5
+acessório para proteger instrumento,200,5
+acessório para proteger instrumento,221,5
+acessório para proteger instrumento,147,5
+acessório para proteger instrumento,139,5
+acessório para proteger instrumento,185,5
+acessório para proteger instrumento,168,5
+acessório para proteger instrumento,188,5
+acessório para proteger instrumento,220,5
+acessório para proteger instrumento,236,5
+acessório para proteger instrumento,144,3
+acessório para proteger instrumento,173,3
+acessório para proteger instrumento,206,3
+produtos de áudio com pouco estoque,259,5
+produtos de áudio com pouco estoque,263,5
+produtos de áudio com pouco estoque,284,5
+produtos de áudio com pouco estoque,296,5
+produtos de áudio com pouco estoque,318,5
+produtos de áudio com pouco estoque,320,5
+produtos de áudio com pouco estoque,322,5
+produtos de áudio com pouco estoque,362,5
+produtos de áudio com pouco estoque,373,5
+produtos de áudio com pouco estoque,375,5
+produtos de áudio com pouco estoque,271,4
+produtos de áudio com pouco estoque,292,4
+produtos de áudio com pouco estoque,315,4
+produtos de áudio com pouco estoque,323,4
+produtos de áudio com pouco estoque,343,4
+produtos de áudio com pouco estoque,360,4
+produtos de áudio com pouco estoque,363,4
+produtos de áudio com pouco estoque,370,4
+acessório barato,126,5
+acessório barato,128,5
+acessório barato,139,5
+acessório barato,145,5
+acessório barato,160,5
+acessório barato,165,5
+acessório barato,174,5
+acessório barato,186,5
+acessório barato,188,5
+acessório barato,189,5
+acessório barato,202,5
+acessório barato,203,5
+acessório barato,211,5
+acessório barato,219,5
+acessório barato,225,5
+acessório barato,228,5
+acessório barato,230,5
+acessório barato,231,5
+acessório barato,235,5
+acessório barato,238,5
+acessório barato,239,5
+acessório barato,247,5
+acessório barato,140,3
+acessório barato,158,3
+acessório barato,196,3
+acessório barato,205,3
+
